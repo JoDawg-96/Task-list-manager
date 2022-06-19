@@ -1,0 +1,10 @@
+﻿  Date.cpp
+  HelloWorld.cpp
+C:\Users\jonas\source\repos\HelloWorld\HelloWorld.cpp(10,7): error C2079: 'd' uses undefined class 'Date'
+C:\Users\jonas\source\repos\HelloWorld\HelloWorld.cpp(10,21): error C2027: use of undefined type 'Date'
+C:\Users\jonas\source\repos\HelloWorld\Date.h(3): message : see declaration of 'Date'
+  Task.cpp
+C:\Users\jonas\source\repos\HelloWorld\Task.cpp(8,7): error C2079: 'Task::date' uses undefined class 'Date'
+C:\Users\jonas\source\repos\HelloWorld\Task.cpp(13,1): error C2027: use of undefined type 'Date'
+C:\Users\jonas\source\repos\HelloWorld\Date.h(3): message : see declaration of 'Date'
+  Generating Code...
